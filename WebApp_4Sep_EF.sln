@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_4Sep_EF", "WebApp_4Sep_EF\WebApp_4Sep_EF.csproj", "{1F24D468-E430-4EE7-8CB5-0D8CBE9193A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0D27D412-87F4-4B54-B7D0-80B80331AC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFirst", "DBFirst\DBFirst.csproj", "{EE93C511-CC7D-45F0-A826-73C4DE16B044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F24D468-E430-4EE7-8CB5-0D8CBE9193A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F24D468-E430-4EE7-8CB5-0D8CBE9193A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F24D468-E430-4EE7-8CB5-0D8CBE9193A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F24D468-E430-4EE7-8CB5-0D8CBE9193A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D27D412-87F4-4B54-B7D0-80B80331AC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D27D412-87F4-4B54-B7D0-80B80331AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D27D412-87F4-4B54-B7D0-80B80331AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D27D412-87F4-4B54-B7D0-80B80331AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE93C511-CC7D-45F0-A826-73C4DE16B044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE93C511-CC7D-45F0-A826-73C4DE16B044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE93C511-CC7D-45F0-A826-73C4DE16B044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE93C511-CC7D-45F0-A826-73C4DE16B044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7393EDAA-8B7D-4883-9F55-57DD09FD6FFA}
+	EndGlobalSection
+EndGlobal
